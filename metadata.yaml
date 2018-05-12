@@ -1,0 +1,35 @@
+_repo: Buckskin-Moseand-Guide._42619
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perrie, George W.
+    alias: Mose, Buckskin
+    gutenberg_agent_id: '41778'
+    url: http://www.gutenberg.org/2009/agents/41778
+  editor:
+    agent_name: Rosenberg, C. G. (Charles G.)
+    aliases:
+    - Rosenberg, G. C.
+    - Rosenberg, Charles G.
+    gutenberg_agent_id: '41779'
+    url: http://www.gutenberg.org/2009/agents/41779
+description: Illustrated by the editor.
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Mormons -- Fiction'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+title: "Buckskin Mose\r\nOr, Life From the Lakes to the Pacific, as Actor, Circus-Rider,\
+  \ Detective, Ranger, Gold-Digger, Indian Scout, and Guide."
+url: http://www.gutenberg.org/ebooks/42619
